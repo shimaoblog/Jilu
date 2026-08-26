@@ -1,9 +1,9 @@
-site_name: SmBLog 文档
+site_name: 记录Archive
 theme:
   name: material
   language: zh
   palette:
-    primary: black
+    primary: blue
     accent: indigo
 plugins:
   - search
