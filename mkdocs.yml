@@ -1,0 +1,10 @@
+site_name: SmBLog 文档
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: black
+    accent: indigo
+plugins:
+  - search
+dev_addr: 0.0.0.0:8000
